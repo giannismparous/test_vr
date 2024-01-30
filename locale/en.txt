@@ -1,0 +1,22 @@
+#: locale=en
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_4A555D03_5A2D_267B_41D3_B56D7D39B0E2.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_0.png
+imlevel_4A557D04_5A2D_267D_41C7_0FF3DDEA375E.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_1.png
+imlevel_4A551D04_5A2D_267D_41C6_08036BAD4E68.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_2.png
+
+### Title
+panorama_5693EB5B_5A23_E28B_41C8_7870E1AFE3C4.label = IMG_20240125_085027_00_merged
+panorama_56139C89_5A23_2674_41B0_D72E4DEC6D84.label = IMG_20240125_085151_00_merged
+map_568203F8_5A23_6195_41B4_849561A32237.label = floorplan
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 4
