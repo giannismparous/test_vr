@@ -1,0 +1,21 @@
+#: locale=en
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_AB1BD25B_8D01_EF9F_41D5_17D002D2B661.url = media/map_942EC8A2_8D01_5CA9_41DB_BDF416792A70_en_0.png
+imlevel_AB1BC25C_8D01_EF99_41D4_9DB2E5DD383D.url = media/map_942EC8A2_8D01_5CA9_41DB_BDF416792A70_en_1.png
+imlevel_AB1B925C_8D01_EF99_41D9_A3454E90FBC1.url = media/map_942EC8A2_8D01_5CA9_41DB_BDF416792A70_en_2.png
+
+### Title
+panorama_95F9C7E2_8D01_34A8_41D5_B0C963AB9649.label = IMG_20240125_085151_00_merged
+map_942EC8A2_8D01_5CA9_41DB_BDF416792A70.label = floorplan
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 6
