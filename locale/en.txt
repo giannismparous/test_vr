@@ -3,18 +3,17 @@
 ## Action
 
 ### URL
-WebFrame_4327ABA5_5ABD_C2D3_41C9_74E1B71B59AF_mobile.url = https://www.3dvista.com/es/
-WebFrame_4C22FE50_5AE2_C271_41C1_AAA7C09F269A_mobile.url = https://www.hermesview.com/
 WebFrame_4C22FE50_5AE2_C271_41C1_AAA7C09F269A.url = https://www.hermesview.com/reserve
+WebFrame_4C22FE50_5AE2_C271_41C1_AAA7C09F269A_mobile.url = https://www.hermesview.com/reserve
 
 ## Media
 
 ### Floorplan
 
 ### Image
-imlevel_D829AE67_9F07_453B_41D0_CAAA1ED638BC.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_0.png
-imlevel_D829DE67_9F07_453B_41C9_DFB0AF17C3BC.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_1.png
-imlevel_D829CE67_9F07_453B_41E1_5D51DAE699C6.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_2.png
+imlevel_94C5B4E0_99C0_0144_41BD_C6D063B7BFB0.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_0.png
+imlevel_94C584E0_99C0_0144_41C6_D41A916CD484.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_1.png
+imlevel_94C594E0_99C0_0144_41D7_9F41B6297A93.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_2.png
 
 ### Title
 panorama_A396A19E_9F1B_5F0A_41B3_501738D33407.label = 0
