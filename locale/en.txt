@@ -3,20 +3,41 @@
 ## Action
 
 ### PDF
+PopupPDFBehaviour_DC7C54F2_C699_BD02_41E5_32E404AB78AE.url = files/menu_en.pdf
 PopupPDFBehaviour_54D3AFBB_5B68_5259_41C2_DF4DED165AD4.url = files/menu_en.pdf
 
 ### URL
-WebFrame_4C22FE50_5AE2_C271_41C1_AAA7C09F269A.url = https://www.hermesview.com/reserve
+LinkBehaviour_DC7C94F1_C699_BD1E_41E5_DEAF7BD06544.source = https://hermesview.com/
+LinkBehaviour_D5774131_C57B_F71E_4193_4D19B4D24AD1.source = https://hermesview.com/
+LinkBehaviour_D5762130_C57B_F71E_41DB_88029517C5E6.source = https://web.facebook.com/madaniacafe/?locale=el_GR&_rdc=1&_rdr
+LinkBehaviour_DC7CB4E8_C699_BD0F_41C9_594830E0B7CE.source = https://web.facebook.com/madaniacafe/?locale=el_GR&_rdc=1&_rdr
+LinkBehaviour_D5778131_C57B_F71E_41D1_CA7DC3B5C215.source = https://www.google.com/maps/place/Madania+All+Day+Cafe/@37.9477967,23.7368759,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd0b985a1cb3:0xa290ba4d42b949fa!8m2!3d37.9477967!4d23.7368759!16s%2Fg%2F11gwmf7vd3?entry=ttu
+LinkBehaviour_DC7B64EE_C699_BD02_41E7_81C8A0DAC59C.source = https://www.google.com/maps/place/Madania+All+Day+Cafe/@37.9477967,23.7368759,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd0b985a1cb3:0xa290ba4d42b949fa!8m2!3d37.9477967!4d23.7368759!16s%2Fg%2F11gwmf7vd3?entry=ttu
 WebFrame_4C22FE50_5AE2_C271_41C1_AAA7C09F269A_mobile.url = https://www.hermesview.com/reserve
+WebFrame_4C22FE50_5AE2_C271_41C1_AAA7C09F269A.url = https://www.hermesview.com/reserve
+LinkBehaviour_DC7C64EA_C699_BD02_41E7_2E200F927484.source = https://www.instagram.com/madaniacafebar/
+LinkBehaviour_D577C130_C57B_F71E_41E7_DEC1F1FB3FDF.source = https://www.instagram.com/madaniacafebar/
+LinkBehaviour_D576F130_C57B_F71E_41A3_1C4A8570E317.source = https://www.tripadvisor.com.gr/Restaurant_Review-g4878510-d15594220-Reviews-Madania-Agios_Dimitrios_Attica.html
+LinkBehaviour_DC7CE4E8_C699_BD0F_41C7_C1AE69A4F911.source = https://www.tripadvisor.com.gr/Restaurant_Review-g4878510-d15594220-Reviews-Madania-Agios_Dimitrios_Attica.html
 
 ## Media
 
 ### Floorplan
 
 ### Image
-imlevel_48AB304A_5B69_AE3A_41AE_7F1ABC2D3A77.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_0.png
-imlevel_48ABC04A_5B69_AE3A_41D1_833ECADC0D9A.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_1.png
-imlevel_48ABD04A_5B69_AE3A_41CF_91CBEA0D2435.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_2.png
+imlevel_D87E1577_C699_9F01_41DF_A12D4C084872.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_0.png
+imlevel_D87E2577_C699_9F01_41E7_295BA25520FB.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_1.png
+imlevel_D879C577_C699_9F01_41C8_95E33E3CCCA9.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_2.png
+imlevel_D9D1AE6D_C69A_8D01_41E5_351C2B3428C7.url = media/popup_D98209C9_C6A9_F701_41E6_767ADE28D343_en_0_0.jpg
+imlevel_D9D1BE6D_C69A_8D01_41C2_9C8700193F3A.url = media/popup_D98209C9_C6A9_F701_41E6_767ADE28D343_en_0_1.jpg
+imlevel_D9D19E6D_C69A_8D01_41C2_6F78B5219A10.url = media/popup_D98209C9_C6A9_F701_41E6_767ADE28D343_en_0_2.jpg
+imlevel_D9D1EE6D_C69A_8D01_41E1_B0564FB08808.url = media/popup_D98209C9_C6A9_F701_41E6_767ADE28D343_en_0_3.jpg
+imlevel_D9E68A18_C69A_B50F_41CF_94E442CD4B50.url = media/popup_D9D10C55_C6AA_8D01_41E8_71DA0025C302_en_0_0.jpg
+imlevel_D9E69A19_C69A_B501_41BB_53F1ACAC235B.url = media/popup_D9D10C55_C6AA_8D01_41E8_71DA0025C302_en_0_1.jpg
+imlevel_D9E6FA19_C69A_B501_41E4_2F1B6FEDB1F2.url = media/popup_D9D10C55_C6AA_8D01_41E8_71DA0025C302_en_0_2.jpg
+imlevel_D9E6CA19_C69A_B501_41BA_F81563F0FCFA.url = media/popup_D9D10C55_C6AA_8D01_41E8_71DA0025C302_en_0_3.jpg
+
+### Popup Image
 
 ### Title
 panorama_A396A19E_9F1B_5F0A_41B3_501738D33407.label = 0
@@ -30,6 +51,60 @@ panorama_A0B899CA_9F1D_CF75_41D2_B2DB3D4D4F8D.label = 6
 panorama_A0B82223_9F1D_FD3B_41CC_BCCFD459D9AE.label = 7
 panorama_A0BA2B4D_9F1D_C30E_41E1_4EA0BBCB4E48.label = 8
 panorama_A0B88321_9F1D_C336_41DD_67E1D502DA0D.label = 9
+panorama_DD0D89A0_C6AE_973E_41E0_53732705463A.label = ENTRANCE
+panorama_DDA406A8_C6AE_BD0E_41E0_A50B6660231B.label = IMG_20240307_080912_00_merged
+panorama_DC5B0F0B_C6AE_8B02_41D8_7C966F5E57F6.label = IMG_20240307_081315_00_merged
+panorama_D9841019_C6BB_B50E_41E5_A122EB6B354C.label = IMG_20240307_084320_00_merged
+panorama_E40346F3_C6BB_FD02_41D5_A5361FC45389.label = IMG_20240307_084406_00_merged
+panorama_DF2ED088_C6BB_B50F_41C7_539DBE764DD5.label = IMG_20240307_084603_00_merged
+panorama_DF29DA8F_C6BB_B501_4191_406F0D81E9F4.label = IMG_20240307_084643_00_merged
+panorama_DF2993B3_C6BB_9B01_41E7_560475085421.label = IMG_20240307_084725_00_merged
+panorama_DF2EFCAA_C6BB_8D02_41D3_A765C31B1D56.label = IMG_20240307_084816_00_merged
+panorama_DF2F0562_C6BA_7F03_41D2_EDE231ED91AB.label = IMG_20240307_084912_00_merged
+panorama_DF2FFE7E_C6BA_8D02_41DC_49C53A43E09B.label = IMG_20240307_085010_00_merged
+panorama_DF2FF6E6_C6BA_9D03_41CE_86265A31EE96.label = IMG_20240307_085100_00_merged
+panorama_DF2E4F6D_C6BA_8B01_41E6_DC65DE327C63.label = IMG_20240307_085144_00_merged
+panorama_DF2E97F4_C6BA_BB07_41A2_A0836748380E.label = IMG_20240307_085231_00_merged
+panorama_DF2D407C_C6BA_9506_41D9_98A875848B1A.label = IMG_20240307_085311_00_merged
+panorama_DF2D4904_C6BA_9707_41B6_A143ECFEC0EE.label = IMG_20240307_085351_00_merged
+panorama_DF2C4168_C6BA_F70F_41E5_8821D486F009.label = IMG_20240307_085439_00_merged
+panorama_DF2C09CF_C6BA_F702_41DA_91FD732953C1.label = IMG_20240307_085537_00_merged
+panorama_DF2CB234_C6BA_9506_41D2_FB0E557ABEC1.label = IMG_20240307_085629_00_merged
+panorama_DF235AAC_C6BA_9506_41D6_C7F72E900CDD.label = IMG_20240307_085708_00_merged
+panorama_DF23A387_C6BA_BB02_41DE_3C2618F8AF43.label = IMG_20240307_085810_00_merged
+panorama_DF227CD6_C6BA_8D03_41E1_7CAF3E992E32.label = IMG_20240307_085908_00_merged
+panorama_DF22F5E1_C6BA_9F01_41CA_4C75E83E0246.label = IMG_20240307_090005_00_merged
+panorama_DF22EF01_C6BA_8B01_41E6_ABBE42D73117.label = IMG_20240307_090050_00_merged
+panorama_DF2127CC_C6BA_7B07_41DC_1004E5797A3F.label = IMG_20240307_090210_00_merged
+panorama_DF21E01F_C6B9_9501_41D0_F6C38D00D0E2.label = IMG_20240307_090338_00_merged
+panorama_DF209874_C6B9_9507_41E6_6EEF2D7D5FE5.label = IMG_20240307_090930_00_merged
+panorama_DF2090EC_C6B9_B507_41E2_C0BA3518DB2E.label = IMG_20240307_091004_00_merged
+panorama_DF200980_C6B9_B7FE_41BF_8102286C1818.label = IMG_20240307_091112_00_merged
+panorama_DF2051F6_C6B9_9703_41E2_67762D528070.label = IMG_20240307_091208_00_merged
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_0.label = IMG_5544
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_1.label = IMG_5567
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_2.label = IMG_5576
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_3.label = IMG_5592
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_4.label = IMG_5602
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_5.label = IMG_5609
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_6.label = IMG_5615
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_7.label = IMG_5623
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_8.label = IMG_5624
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_9.label = IMG_5626
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_10.label = IMG_5628
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_11.label = IMG_5630
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_12.label = IMG_5633
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_13.label = IMG_5634
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_14.label = IMG_5637
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_15.label = IMG_5647
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_16.label = IMG_5669
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_17.label = IMG_5674
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_18.label = IMG_5682
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_19.label = IMG_5685
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_20.label = IMG_5698
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_21.label = IMG_5708
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C_22.label = IMG_5717
+album_D0AC50FC_C69E_9507_41E7_189A5B47C00C.label = Photo Album IMG_5544
 map_568203F8_5A23_6195_41B4_849561A32237.label = floorplan
 
 ## Skin
@@ -37,9 +112,16 @@ map_568203F8_5A23_6195_41B4_849561A32237.label = floorplan
 ### Image
 Image_430173B7_5ABE_C23F_41C5_E2D2FFD85A02.url = skin/Image_430173B7_5ABE_C23F_41C5_E2D2FFD85A02_en.png
 Image_430173B7_5ABE_C23F_41C5_E2D2FFD85A02_mobile.url = skin/Image_430173B7_5ABE_C23F_41C5_E2D2FFD85A02_mobile_en.png
-Image_4B4EB413_5B69_F62A_41C9_0CCFE22FABC5.url = skin/Image_4B4EB413_5B69_F62A_41C9_0CCFE22FABC5_en.png
-Image_542EED46_5B78_762A_41BA_D9185A53FF5A.url = skin/Image_542EED46_5B78_762A_41BA_D9185A53FF5A_en.jpg
 Image_54387242_5B78_722B_41C9_62C9A9B22E17.url = skin/Image_54387242_5B78_722B_41C9_62C9A9B22E17_en.png
+Image_54387242_5B78_722B_41C9_62C9A9B22E17_mobile.url = skin/Image_54387242_5B78_722B_41C9_62C9A9B22E17_mobile_en.png
+Image_D039E62C_C566_9D06_41E0_85AF0BA03309.url = skin/Image_D039E62C_C566_9D06_41E0_85AF0BA03309_en.png
+Image_D039E62C_C566_9D06_41E0_85AF0BA03309_mobile.url = skin/Image_D039E62C_C566_9D06_41E0_85AF0BA03309_mobile_en.png
+Image_D5716130_C57B_F71E_41B1_4A6DE32F8887.url = skin/Image_D5716130_C57B_F71E_41B1_4A6DE32F8887_en.png
+Image_D5716130_C57B_F71E_41B1_4A6DE32F8887_mobile.url = skin/Image_D5716130_C57B_F71E_41B1_4A6DE32F8887_mobile_en.png
+
+### Multiline Text
+HTMLText_D577A131_C57B_F71E_41CF_2E98B2B52C6C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Oswald Regular';"><B><I><U>Πληροφορίες Επικοινωνίας</U></I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Oswald Regular';"><I>Τηλέφωνο: 2109715598</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Oswald Regular';"><I>Email: madaniacafebar@yahoo.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_D577A131_C57B_F71E_41CF_2E98B2B52C6C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8px;font-family:'Oswald Regular';"><B><I><U>Πληροφορίες Επικοινωνίας</U></I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7px;font-family:'Oswald Regular';"><I>Τηλέφωνο: 2109715598</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7px;font-family:'Oswald Regular';"><I>Email: madaniacafebar@yahoo.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Tour
 
