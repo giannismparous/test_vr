@@ -7,18 +7,18 @@ PopupPDFBehaviour_54D3AFBB_5B68_5259_41C2_DF4DED165AD4.url = files/menu_en.pdf
 PopupPDFBehaviour_DC7C54F2_C699_BD02_41E5_32E404AB78AE.url = files/menu_en.pdf
 
 ### URL
+WebFrame_4C22FE50_5AE2_C271_41C1_AAA7C09F269A.url = https://easyres.netlify.app/reserve/sample-restaurant/1
 LinkBehaviour_D5774131_C57B_F71E_4193_4D19B4D24AD1.source = https://hermesview.com/
 LinkBehaviour_DC7C94F1_C699_BD1E_41E5_DEAF7BD06544.source = https://hermesview.com/
-LinkBehaviour_DC7CB4E8_C699_BD0F_41C9_594830E0B7CE.source = https://web.facebook.com/madaniacafe/?locale=el_GR&_rdc=1&_rdr
 LinkBehaviour_D5762130_C57B_F71E_41DB_88029517C5E6.source = https://web.facebook.com/madaniacafe/?locale=el_GR&_rdc=1&_rdr
-LinkBehaviour_DC7B64EE_C699_BD02_41E7_81C8A0DAC59C.source = https://www.google.com/maps/place/Madania+All+Day+Cafe/@37.9477967,23.7368759,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd0b985a1cb3:0xa290ba4d42b949fa!8m2!3d37.9477967!4d23.7368759!16s%2Fg%2F11gwmf7vd3?entry=ttu
+LinkBehaviour_DC7CB4E8_C699_BD0F_41C9_594830E0B7CE.source = https://web.facebook.com/madaniacafe/?locale=el_GR&_rdc=1&_rdr
 LinkBehaviour_D5778131_C57B_F71E_41D1_CA7DC3B5C215.source = https://www.google.com/maps/place/Madania+All+Day+Cafe/@37.9477967,23.7368759,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd0b985a1cb3:0xa290ba4d42b949fa!8m2!3d37.9477967!4d23.7368759!16s%2Fg%2F11gwmf7vd3?entry=ttu
+LinkBehaviour_DC7B64EE_C699_BD02_41E7_81C8A0DAC59C.source = https://www.google.com/maps/place/Madania+All+Day+Cafe/@37.9477967,23.7368759,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd0b985a1cb3:0xa290ba4d42b949fa!8m2!3d37.9477967!4d23.7368759!16s%2Fg%2F11gwmf7vd3?entry=ttu
 WebFrame_4C22FE50_5AE2_C271_41C1_AAA7C09F269A_mobile.url = https://www.hermesview.com/reserve
-WebFrame_4C22FE50_5AE2_C271_41C1_AAA7C09F269A.url = https://www.hermesview.com/reserve
-LinkBehaviour_D577C130_C57B_F71E_41E7_DEC1F1FB3FDF.source = https://www.instagram.com/madaniacafebar/
 LinkBehaviour_DC7C64EA_C699_BD02_41E7_2E200F927484.source = https://www.instagram.com/madaniacafebar/
-LinkBehaviour_DC7CE4E8_C699_BD0F_41C7_C1AE69A4F911.source = https://www.tripadvisor.com.gr/Restaurant_Review-g4878510-d15594220-Reviews-Madania-Agios_Dimitrios_Attica.html
+LinkBehaviour_D577C130_C57B_F71E_41E7_DEC1F1FB3FDF.source = https://www.instagram.com/madaniacafebar/
 LinkBehaviour_D576F130_C57B_F71E_41A3_1C4A8570E317.source = https://www.tripadvisor.com.gr/Restaurant_Review-g4878510-d15594220-Reviews-Madania-Agios_Dimitrios_Attica.html
+LinkBehaviour_DC7CE4E8_C699_BD0F_41C7_C1AE69A4F911.source = https://www.tripadvisor.com.gr/Restaurant_Review-g4878510-d15594220-Reviews-Madania-Agios_Dimitrios_Attica.html
 
 ## Media
 
@@ -28,17 +28,17 @@ audiores_D34E3729_C51F_D2FF_41D1_30BBDDB70DA6.mp3Url = media/audio_DD3D05BC_C51D
 ### Floorplan
 
 ### Image
-imlevel_5F44E889_4857_59E2_41BB_F066496C18A4.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_0.png
-imlevel_5F44B889_4857_59E2_41C3_D0D961409263.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_1.png
-imlevel_5F44888A_4857_59E6_41BA_AA4EE31CC370.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_2.png
-imlevel_D9D1AE6D_C69A_8D01_41E5_351C2B3428C7.url = media/popup_D98209C9_C6A9_F701_41E6_767ADE28D343_en_0_0.jpg
-imlevel_D9D1BE6D_C69A_8D01_41C2_9C8700193F3A.url = media/popup_D98209C9_C6A9_F701_41E6_767ADE28D343_en_0_1.jpg
-imlevel_D9D19E6D_C69A_8D01_41C2_6F78B5219A10.url = media/popup_D98209C9_C6A9_F701_41E6_767ADE28D343_en_0_2.jpg
-imlevel_D9D1EE6D_C69A_8D01_41E1_B0564FB08808.url = media/popup_D98209C9_C6A9_F701_41E6_767ADE28D343_en_0_3.jpg
-imlevel_D9E68A18_C69A_B50F_41CF_94E442CD4B50.url = media/popup_D9D10C55_C6AA_8D01_41E8_71DA0025C302_en_0_0.jpg
-imlevel_D9E69A19_C69A_B501_41BB_53F1ACAC235B.url = media/popup_D9D10C55_C6AA_8D01_41E8_71DA0025C302_en_0_1.jpg
-imlevel_D9E6FA19_C69A_B501_41E4_2F1B6FEDB1F2.url = media/popup_D9D10C55_C6AA_8D01_41E8_71DA0025C302_en_0_2.jpg
-imlevel_D9E6CA19_C69A_B501_41BA_F81563F0FCFA.url = media/popup_D9D10C55_C6AA_8D01_41E8_71DA0025C302_en_0_3.jpg
+imlevel_EC07C665_E35E_6CB0_41DC_BA4FB0E13DAD.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_0.png
+imlevel_EC07F665_E35E_6CB0_419D_B52EAD071DB8.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_1.png
+imlevel_EC079665_E35E_6CB0_4170_84DF23BC51FD.url = media/map_568203F8_5A23_6195_41B4_849561A32237_en_2.png
+imlevel_EE5CD8D2_E34E_2590_41E6_1E2848D02BFD.url = media/popup_D98209C9_C6A9_F701_41E6_767ADE28D343_en_0_0.jpg
+imlevel_EE5DC8D2_E34E_2590_41D1_3A533644AB61.url = media/popup_D98209C9_C6A9_F701_41E6_767ADE28D343_en_0_1.jpg
+imlevel_EE5DB8D2_E34E_2590_41D5_0D246DFE8D9E.url = media/popup_D98209C9_C6A9_F701_41E6_767ADE28D343_en_0_2.jpg
+imlevel_EE5DA8D3_E34E_2590_41D3_FC6B4BB4F58F.url = media/popup_D98209C9_C6A9_F701_41E6_767ADE28D343_en_0_3.jpg
+imlevel_EE4374A9_E34E_2DB0_41E5_9E2A5CD02E20.url = media/popup_D9D10C55_C6AA_8D01_41E8_71DA0025C302_en_0_0.jpg
+imlevel_EE4C74A9_E34E_2DB0_41B7_7BE4C9B1D2A6.url = media/popup_D9D10C55_C6AA_8D01_41E8_71DA0025C302_en_0_1.jpg
+imlevel_EE4C64A9_E34E_2DB0_41E8_C28ADECBC7BA.url = media/popup_D9D10C55_C6AA_8D01_41E8_71DA0025C302_en_0_2.jpg
+imlevel_EE4C54AA_E34E_2DB0_41D0_5AB3282E1385.url = media/popup_D9D10C55_C6AA_8D01_41E8_71DA0025C302_en_0_3.jpg
 
 ### Popup Image
 
@@ -106,7 +106,7 @@ Image_D5716130_C57B_F71E_41B1_4A6DE32F8887.url = skin/Image_D5716130_C57B_F71E_4
 Image_D5716130_C57B_F71E_41B1_4A6DE32F8887_mobile.url = skin/Image_D5716130_C57B_F71E_41B1_4A6DE32F8887_mobile_en.png
 
 ### Multiline Text
-HTMLText_D577A131_C57B_F71E_41CF_2E98B2B52C6C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Oswald Regular';"><B><I><U>Πληροφορίες Επικοινωνίας</U></I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Oswald Regular';"><I>Τηλέφωνο: 2109715598</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Oswald Regular';"><I>Email: madaniacafebar@yahoo.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_D577A131_C57B_F71E_41CF_2E98B2B52C6C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Oswald Regular';"><B><I><U>Πληροφορίες Επικοινωνίας</U></I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Oswald Regular';"><I>Τηλέφωνο: 2109715598</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Oswald Regular';"><I>Email: madaniacafebar@yahoo.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_D577A131_C57B_F71E_41CF_2E98B2B52C6C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8px;font-family:'Oswald Regular';"><B><I><U>Πληροφορίες Επικοινωνίας</U></I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7px;font-family:'Oswald Regular';"><I>Τηλέφωνο: 2109715598</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7px;font-family:'Oswald Regular';"><I>Email: madaniacafebar@yahoo.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Tour
